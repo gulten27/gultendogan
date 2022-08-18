@@ -35,16 +35,10 @@
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gulten27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gulten27&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gulten27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulten27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulten27&theme=tokyonight&hide_border=false" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulten27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-  <br/>
-</p>
+
 
 
