@@ -3,7 +3,7 @@
 <br/>
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=70a4fc&center=true&vCenter=true&width=800&height=100&lines=I'm+a+Mobil+Developer;I'm+a+Data+Scientist" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2edf85&center=true&vCenter=true&width=800&height=100&lines=I'm+a+Mobil+Developer;I+❤+Android" alt="Headline" />
 </div>
 
 <br/>
@@ -17,7 +17,7 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=gulten27&icon=4&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gulten27&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,10 +35,14 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gulten27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gulten27&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gulten27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gulten27&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gulten27&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gulten27&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
