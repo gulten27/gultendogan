@@ -39,7 +39,7 @@
 
 <p align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulten27&theme=vue-dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gultendogan0&theme=vue-dark&hide_border=false" />
   <br/>
  
 </p>
