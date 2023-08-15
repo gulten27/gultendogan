@@ -26,6 +26,10 @@
   </a>
 </p>
 
+<br/>
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gultendogan0&label=Views&color=blueviolet&style=flat" alt="gultendogan0" /> </p>
 
 <br/>
 
