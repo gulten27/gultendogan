@@ -21,7 +21,7 @@
   <a href="https://www.kaggle.com/gultendogan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gultendogan" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@gultendogann00" target="blank">
+  <a href="https://medium.com/@gultendogan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@gultendogann00" height="30" width="40" />
   </a>
 </p>
