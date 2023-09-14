@@ -23,7 +23,8 @@
   <a href="https://medium.com/@gultendogan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@gultendogann00" height="40" width="50" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/gultendogan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gultendogan/" height="40" width="50" /></a>
+  <a href="https://leetcode.com/gultendogan/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gultendogan/" height="40" width="50" /></a>
 </p>
 <br/>
 
