@@ -6,8 +6,6 @@
 
 #### 🌱 I’m currently learning **Python, Kotlin and Dart**
   
-#### 👨‍💻 All of my projects are available at : https://github.com/gultendogan0?tab=repositories
-
 #### 📫 How to reach me : gultendogann00@gmail.com
 
 
