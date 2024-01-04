@@ -5,8 +5,7 @@
 #### 🔭 I’m currently working on **Android, Flutter and Data Science**
 
 #### 🌱 I’m currently learning **Python, Kotlin and Dart**
-  
-#### 📫 How to reach me : gultendogann00@gmail.com
+
 
 
 <br/>
