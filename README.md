@@ -11,9 +11,6 @@
 <br/>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gülten-doğan-3a453721b/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/gülten-doğan-3a453721b" height="40" width="50" />
-  </a>
   <a href="https://www.kaggle.com/gultendogan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gultendogan" height="40" width="50" />
   </a>
